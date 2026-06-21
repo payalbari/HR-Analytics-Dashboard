@@ -53,8 +53,6 @@ Dashboard Design
 
 ✔ Data Cleaning & Transformation
 
-✔ SQL Querying & Data Analysis
-
 ✔ Interactive Dashboard Development in Tableau
 
 ✔ KPI Creation & Business Reporting
