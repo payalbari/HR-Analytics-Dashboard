@@ -47,7 +47,9 @@ Dashboard Design
 
 📝 Project Documentation
 
-🖼️ Dashboard Screenshots
+### 📸 Dashboard Preview
+
+<img width="602" height="340" alt="Screenshot 2026-04-13 222733" src="https://github.com/user-attachments/assets/9fddd97d-1a33-4309-8139-8c0186f0c31e" />
 
 ### 🎯 Key Skills Demonstrated
 
